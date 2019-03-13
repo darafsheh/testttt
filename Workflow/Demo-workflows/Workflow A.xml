@@ -9,8 +9,8 @@
     <display-name><![CDATA[Scriptable task]]></display-name>
     <script encoded="false"><![CDATA[System.log("I am workflow A");
 System.log("I am workflow B");
-System.log("I am workflow C");
-System.log("Update 1");]]></script>
+System.log("Update 1");
+System.log("Update BAD");]]></script>
     <in-binding/>
     <out-binding/>
     <position y="55.40909090909091" x="204.5"/>
